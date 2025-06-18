@@ -1,0 +1,9 @@
+pandas
+scikit-learn
+plotly
+matplotlib
+google-cloud-bigquery
+google-cloud-storage
+google-cloud-functions
+google-cloud-aiplatform
+flask
